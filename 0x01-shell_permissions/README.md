@@ -51,4 +51,6 @@ r-- = 100 in binary = 4
 
 15. "chown -h vincent:staff _hello" It is used to Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
-16. "
+16. "chown --from=guillaume betty hello" It is used to Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+17. "telnet towel.blinkenlights.nl" It is used to Write a script that will play the StarWars IV episode in the terminal.
