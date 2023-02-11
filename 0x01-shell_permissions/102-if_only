@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello:betty --if_only guillaume
+chown --if_only=guillaume hello:betty
